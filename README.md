@@ -2,17 +2,18 @@
 
 ## Descrição
 
-Este projeto é educacional e visa inserir os alunos do Curso Técnico de Desenvolvimento de Sistemas do Senai de Cataguases ao ecossistema do React com Typescript
+Este projeto é educacional e visa inserir os alunos do Curso Técnico de Desenvolvimento de Sistemas do Senai Cataguases ao ecossistema do React com Typescript
 
 ---
 
-### Issues criadas
+### Issues criadas 
 
-[ Configuração Projeto React - To Do List ](https://github.com/vitorjfa/rpv-todo-list-typescript/issues/1) ✅ Finalizado
+[Configuração Projeto React - To Do List](https://github.com/danielvalmeida91/rpv-todo-list-typescript/issues/5) - ✅ Finalizado
 
-[Layout inicial](https://github.com/vitorjfa/rpv-todo-list-typescript/issues/2) ✅ Finalizado
+[Layout Inicial](https://github.com/danielvalmeida91/rpv-todo-list-typescript/issues/7) - ✅ Finalizado
 
-[Validações de entreda](https://github.com/vitorjfa/rpv-todo-list-typescript/issues/3) ❌
+[Validações de entrada](https://github.com/danielvalmeida91/rpv-todo-list-typescript/issues/8) - ✅ Finalizado 
 
-[Informações de Cadastro](https://github.com/vitorjfa/rpv-todo-list-typescript/issues/4) ❌
-# rpv-todo-list
+[Informações de Cadastro](https://github.com/danielvalmeida91/rpv-todo-list-typescript/issues/9) - ⚠️ A desenvolver 
+
+<!-- ⚠️✅ -->
